@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2pdeZHZ8uHdrocpbQYtWH+QANkS1EUFtqpB3/HiVwj0CN/8aEIOrjzBVpISkTbaovXSoqVpcD1u+qYCmKRjCDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROKO000000161\\source\\repos\\Davydova_Task3\\Davydova_Task3\\Davydova_Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROKO000000161\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
